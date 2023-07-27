@@ -1,0 +1,51 @@
+{
+   "user1": {
+        "name":"Ramesh",
+        "password":"42qd#$52",
+        "profession" : "tearcher",
+        "id":1
+    },
+    "user2": {
+        "name":"mahesh",
+        "password":"4#$5348756",
+        "profession" : "builder",
+        "id":2
+    },
+    "user3": {
+        "name":"Amit",
+        "password":"8#@233%^$#",
+        "profession" : "Designer",
+        "id":3
+    },
+    "user4": {
+        "name":"sweta",
+        "password":"4@#!%@#$^76",
+        "profession" : "programmer",
+        "id":4
+    },
+    "user5": {
+        "name":"Ram",
+        "password":"42qd#$52",
+        "profession" : "poet",
+        "id":5
+    },
+    "user6": {
+        "name":"Ramesh",
+        "password":"4#$@%&^%67231",
+        "profession" : "student",
+        "id":1
+    },
+    "user7": {
+        "name":"Ramesh",
+        "password":"42qd#$52",
+        "profession" : "tearcher",
+        "id":1
+    },
+    "user8": {
+        "name":"Ramesh",
+        "password":"42qd#$52",
+        "profession" : "tearcher",
+        "id":1
+    }
+
+}
